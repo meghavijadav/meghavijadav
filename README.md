@@ -1,4 +1,4 @@
-# <img src="https://i.pinimg.com/originals/28/0a/05/280a05c05fa4cd05717a9256d661f425.gif" width="50"> About me:
+# About me <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
 Hello world! 
 I'm a prefinal year student on an exciting journey through the digital realm. You can think of me as your friendly neighborhood code wizard. 
 
