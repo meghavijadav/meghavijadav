@@ -1,4 +1,4 @@
-### <img src="https://i.pinimg.com/originals/28/0a/05/280a05c05fa4cd05717a9256d661f425.gif" width="50"> About me:
+#<img src="https://i.pinimg.com/originals/28/0a/05/280a05c05fa4cd05717a9256d661f425.gif" width="50"> About me:
 Hello world! 
 I'm a prefinal year student on an exciting journey through the digital realm. You can think of me as your friendly neighborhood code wizard. 
 
@@ -11,7 +11,6 @@ I'm a prefinal year student on an exciting journey through the digital realm. Yo
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=meghavijadav&theme=nord&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=meghavijadav&theme=nord&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=meghavijadav&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
